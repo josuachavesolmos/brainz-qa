@@ -1,0 +1,9 @@
+{
+  "name": "brainz-qa",
+  "version": "0.1.0",
+  "description": "QA automation toolkit for BrainzLab: E2E spec generation, test execution, quality gates, flaky test detection, performance audits, and security scanning",
+  "author": {
+    "name": "BrainzLab"
+  },
+  "keywords": ["qa", "testing", "playwright", "rspec", "security", "performance", "ci"]
+}
