@@ -1,7 +1,7 @@
 {
   "name": "brainz-qa",
-  "version": "0.1.0",
-  "description": "QA automation toolkit for BrainzLab: E2E spec generation, test execution, quality gates, flaky test detection, performance audits, and security scanning",
+  "version": "0.2.0",
+  "description": "QA automation toolkit for BrainzLab: E2E spec generation, test repair with Docs-as-Code, test execution, quality gates, flaky test detection, performance audits, and security scanning",
   "author": {
     "name": "BrainzLab"
   },
